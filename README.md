@@ -39,14 +39,8 @@ This repository contains all of my projects, hands-on labs, notebooks, and tools
 ## 📸 Screenshots & Visuals
 
 ### Architecture Diagrams
+![aws ml pictures(1)](https://github.com/user-attachments/assets/741de150-b785-4f10-912c-35abc1f9c7a2)
 
-📁 [`architecture-diagrams/`](./architecture-diagrams)
-
-- ![Pipeline Flow](architecture-diagrams/ml_pipeline.png)  
-  *SageMaker ML pipeline from ingestion to deployment*
-
-- ![Model Monitoring](architecture-diagrams/monitoring.png)  
-  *Real-time model monitoring setup using SageMaker Model Monitor*
 
 ---
 
