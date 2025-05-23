@@ -1,4 +1,4 @@
-# AWS-ML-Specialty: Section 1 – AWS Basics
+# Section 1 – AWS Basics
 
 This section includes fundamental AWS knowledge required as a prerequisite for building ML pipelines in the cloud. These basics do not fall directly under data engineering, modeling, or ML operations but are essential for setting up and understanding AWS infrastructure.
 
