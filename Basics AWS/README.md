@@ -1,44 +1,41 @@
-# 🧱 1_Basics_AWS
+# AWS-ML-Specialty: Section 1 – AWS Basics
 
-This directory contains foundational AWS configurations and hands-on labs that prepare the environment for scalable, secure, and cost-efficient machine learning workflows. These skills are essential for working in cloud-based ML pipelines and infrastructure.
-
----
-
-## ✅ Included Labs & Concepts
-
-| Lab | Description |
-|-----|-------------|
-| `setup_sagemaker_notebook.md` | Provisioned and configured a SageMaker notebook instance for development and experimentation. |
-| `iam_basics.md` | Created and tested IAM roles, policies, and permission boundaries for secure resource access. |
-| `s3_bucket_setup.md` | Deployed S3 buckets with versioning, encryption (AES-256), and lifecycle policies for cost optimization. |
-| `vpc_and_billing_alerts.md` | Created VPC endpoints to route traffic privately and implemented AWS billing alarms via CloudWatch. |
-| `default_encryption.md` | Enforced default encryption settings for new S3 objects across all data buckets. |
+This section includes fundamental AWS knowledge required as a prerequisite for building ML pipelines in the cloud. These basics do not fall directly under data engineering, modeling, or ML operations but are essential for setting up and understanding AWS infrastructure.
 
 ---
 
-## 🛠️ Skills Demonstrated
+## 🧠 What’s Included
 
-- 🔐 IAM Roles and Policies  
-- 🗃️ Amazon S3: Bucket Policy, Encryption, Versioning, Lifecycle Rules  
-- 📓 SageMaker Notebook Provisioning  
-- 🌐 VPC Endpoints for Secure Access  
-- 💸 Billing Alerts and Cost Monitoring with CloudWatch
+### Core AWS Concepts
+- **IAM**: Users, roles, policies, groups, and access management
+- **Regions & Availability Zones**: Understanding AWS’s global infrastructure
+- **Billing & Cost Management**: Setting up budgets, alarms, and pricing estimates
+- **Shared Responsibility Model**: Security boundaries and responsibilities
+- **Console & CLI Navigation**: Hands-on configuration using both the AWS Management Console and AWS CLI
 
----
-
-## 📸 Screenshots to Include (place in `/assets/` folder)
-
-| Image File | Description |
-|------------|-------------|
-| `sagemaker_instance.png` | Screenshot of SageMaker notebook instance configuration (instance type, IAM role, status) |
-| `iam_policy_custom.png` | Screenshot of a custom IAM policy or trust relationship setup |
-| `s3_bucket_settings.png` | S3 bucket encryption and lifecycle rule UI |
-| `billing_alert.png` | Billing alarm rule or budget threshold from AWS Budgets or CloudWatch |
-| `vpc_endpoint.png` | VPC endpoint configuration screen (S3 or SageMaker) |
+### Services Overview
+- **EC2 Basics**: Launching and terminating instances, AMIs, security groups
+- **EBS, S3, EFS, FSx**: Overview of storage types and when to use each
+- **VPC Basics**: Subnets, route tables, gateways (without deep networking config)
+- **CloudWatch**: Monitoring basics and setting up simple alarms
 
 ---
 
-## 📘 Context
+## 📁 Directory Structure
 
-All configurations were completed using the AWS Free Tier (where applicable) and follow best practices in cloud security, access control, and cost management. This section serves as the backbone for all subsequent ML workflows in the pipeline.
+- `labs/`: Contains hands-on lab implementations (e.g., launching EC2, setting IAM policies)
+- `hands_on_notes/`: All lecture-based content done interactively on AWS – annotated notes, screenshots, or CLI walkthroughs
+- `README.md`: This file
+
+---
+
+## ✅ Outcomes
+
+By completing this section, I became familiar with:
+- AWS infrastructure essentials
+- The interface and key navigation patterns of AWS Console
+- Basic security and cost-monitoring mechanisms
+- Skills necessary to support advanced ML workflows later in the pipeline
+
+This section set up my AWS environment and permissions securely, ensuring I could continue to deploy more advanced machine learning services with confidence.
 
