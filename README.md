@@ -17,7 +17,7 @@ This repository contains all of my projects, hands-on labs, notebooks, and tools
 
 | Domain                              | Folder(s)                                  | Description |
 |-------------------------------------|---------------------------------------------|-------------|
-| **1. Data Engineering**            | [`data-engineering/`](./data-engineering)   | Work with S3, Glue, Kinesis, EMR, Athena |
+| **1. Data Engineering**            | [`Data Engineering/`](./data-engineering)   | Work with S3, Glue, Kinesis, EMR, Athena |
 | **2. Exploratory Data Analysis**   | [`notebooks/`](./notebooks)                 | Jupyter notebooks using Pandas, Spark, Athena |
 | **3. Modeling**                    | [`model-tuning/`](./model-tuning), [`sagemaker-projects/`](./sagemaker-projects) | Feature engineering, model tuning, built-in algorithms |
 | **4. ML Implementation & Ops**    | [`deployment/`](./deployment)               | Inference pipelines, model monitoring, MLOps, security |
