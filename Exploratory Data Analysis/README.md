@@ -58,6 +58,7 @@ This module covers the tools and techniques necessary to prepare, visualize, and
 
 - **Amazon Athena** – Querying data using SQL
   - [HOL] Run SQL queries on Athena
+  
 ![image](https://github.com/user-attachments/assets/e8e8a6c2-5a3c-48be-b581-d1f8d03cc2d5)
 
 - **Amazon QuickSight** – Visualize trends and feature patterns
