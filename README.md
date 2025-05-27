@@ -49,7 +49,7 @@ This repository contains all of my projects, hands-on labs, notebooks, and tools
 - Set up an AWS Free Tier account
 - Clone the repo:
   ```bash
-  git clone https://github.com/YOUR_USERNAME/aws-ml-specialty-prep.git
+  git clone https://github.com/ObinnaNdbs/AWS-Certified-Machine-Learning-Specialty.git
 - Launch notebooks in SageMaker Studio
 
 ## 📚 Course References
