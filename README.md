@@ -19,7 +19,7 @@ This repository contains all of my projects, hands-on labs, notebooks, and tools
 |-------------------------------------|---------------------------------------------|-------------|
 | **1. Data Engineering**            | [`Data Engineering/`](https://github.com/ObinnaNdbs/AWS-Certified-Machine-Learning-Specialty/tree/main/Data%20Engineering)   | Work with S3, Glue, Kinesis, EMR, Athena |
 | **2. Exploratory Data Analysis**   | [`notebooks/`](https://github.com/ObinnaNdbs/AWS-Certified-Machine-Learning-Specialty/tree/main/Exploratory%20Data%20Analysis)                 | Jupyter notebooks using Pandas, Spark, Athena |
-| **3. Modeling**                    | [`model-tuning/`](https://github.com/ObinnaNdbs/AWS-Certified-Machine-Learning-Specialty/tree/main/Modeling), [`sagemaker-projects/`](./sagemaker-projects) | Feature engineering, model tuning, built-in algorithms |
+| **3. Modeling**                    | [`model-tuning/`](https://github.com/ObinnaNdbs/AWS-Certified-Machine-Learning-Specialty/tree/main/Modeling), [`sagemaker-projects/`](https://github.com/ObinnaNdbs/AWS-Certified-Machine-Learning-Specialty/tree/main/Projects) | Feature engineering, model tuning, built-in algorithms |
 | **4. ML Implementation & Ops**    | [`deployment/`](https://github.com/ObinnaNdbs/AWS-Certified-Machine-Learning-Specialty/tree/main/ML%20Implementation%20and%20Operations)               | Inference pipelines, model monitoring, MLOps, security |
 | **Generative AI (Extra)**         | [`generative-ai/`](./generative-ai)         | SageMaker JumpStart, Bedrock demos, HuggingFace integration |
 
