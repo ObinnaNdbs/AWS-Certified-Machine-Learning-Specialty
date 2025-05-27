@@ -24,7 +24,6 @@ This section includes fundamental AWS knowledge required as a prerequisite for b
 ## 📁 Directory Structure
 
 - `labs/`: Contains hands-on lab implementations (e.g., launching EC2, setting IAM policies)
-- `hands_on_notes/`: All lecture-based content done interactively on AWS – annotated notes, screenshots, or CLI walkthroughs
 - `README.md`: This file
 
 ---
