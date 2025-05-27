@@ -1,4 +1,4 @@
-# 🌟 AWS Certified Machine Learning – Specialty (MLS-C01)
+# AWS Certified Machine Learning – Specialty (MLS-C01)
 
 _Comprehensive labs, projects, and notes for mastering Machine Learning on AWS_
 
