@@ -73,3 +73,98 @@ If you're prepping for MLS-C01 or want to collaborate on ML/AWS projects:
 
 **Obinna Ndubuisi**  
 🔗 [LinkedIn](https://www.linkedin.com/in/obinna-ndubuisi-576471293/)  
+
+
+
+# 🌟 AWS Certified Machine Learning – Specialty (MLS-C01) Prep Repo  
+_Comprehensive labs, projects & notes for mastering ML on AWS_
+
+---
+
+### 🎓 Status & Credential
+
+| &nbsp; | &nbsp; |
+|---|---|
+| **Certification Date** | **April 2025** |
+| **AWS CertMetrics Link** | [Verify Credential](https://cp.certmetrics.com/amazon/en/public/verify/credential) |
+| **Validation ID** | `a0dc9bde-5db7-409e-a223-f97c7f488f66` |
+| **Badge** | ![aws-certified-machine-learning-specialty](https://github.com/user-attachments/assets/c5e85832-98de-4962-90e0-ac03a9781154) |
+
+---
+
+## 📂 Repo at a Glance  
+
+| # | Exam Domain (MLS-C01) | Folder | Highlights |
+|--|--|--|--|
+| 1 | **Data Engineering** | [`/Data Engineering`](./Data%20Engineering) | S3 data-lakes, Glue ETL/Catalog/Brew, Kinesis (Streams • Firehose • Analytics), Apache Flink, Athena, DMS, Batch, Step Functions |
+| 2 | **Exploratory Data Analysis** | [`/Exploratory Data Analysis`](./Exploratory%20Data%20Analysis) | SageMaker Ground Truth, Athena SQL notebooks, QuickSight dashboards, Spark TF-IDF on EMR |
+| 3 | **Modeling** | [`/Modeling`](./Modeling) | Built-in algorithms, HPO, Canvas, Feature Store, Hugging Face, BYO Docker, CNN tuning on EC2 |
+| 4 | **ML Implementation & Operations** | [`/ML Implementation and Operations`](./ML%20Implementation%20and%20Operations) | MLOps pipelines, SageMaker Projects, serverless/variant endpoints, Neo edge inference, security & cost ops |
+| ★ | **Generative AI (Bonus)** | [`/Generative AI`](./Generative%20AI) | Bedrock playground (Claude/Titan/SDXL), GPT fine-tuning w/ JumpStart + Hugging Face |
+
+### 📁 Projects Portfolio
+
+All polished, end-to-end builds live in [`/Projects`](./Projects):
+
+- **Churn Prediction (XGBoost)**
+- **Sentiment Analysis Pipeline** (Glue → SageMaker → Endpoint)
+- **Mammographic Mass Classification** (CNN + SageMaker Debugger)
+- **TF-IDF Search Engine** (Spark EMR + Elasticsearch)
+- **Transformers on SageMaker** (LLM fine-tune & deploy)
+
+---
+
+## 🏆 Key Wins
+
+| ✅ | Achievement |
+|----|-------------|
+| End-to-end SageMaker pipeline: **Ground Truth ➜ HPO ➜ Multi-AZ Endpoint ➜ Model Monitor** |
+| Cost-optimized training with **Spot instances** & automatic scaling |
+| Live demos on **Bedrock** for chat, text & image generation |
+| Integrated **Glue + Kinesis** streaming ETL feeding real-time inference |
+| Leveraged high-level AI services (Rekognition, Comprehend, Lex, Polly) inside projects |
+
+---
+
+## 🖼️ High-Level Architecture
+
+![aws ml architecture](https://github.com/user-attachments/assets/741de150-b785-4f10-912c-35abc1f9c7a2)
+
+---
+
+## 🚀 Quick Start
+
+```bash
+# 1. clone
+git clone https://github.com/ObinnaNdbs/AWS-Certified-Machine-Learning-Specialty.git
+cd AWS-Certified-Machine-Learning-Specialty
+
+# 2. launch SageMaker Studio (or open chosen .ipynb locally)
+# 3. follow each section's README for prerequisites & costs
+
+---
+
+## 🎓 Learning Sources
+
+This repository supports my learning from the following Udemy courses:
+
+- 🧠 [AWS Certified Machine Learning Specialty – Frank Kane & Stephane Maarek](https://www.udemy.com/course/aws-machine-learning/?couponCode=CP130525US)
+- 🧠 [AWS Certified Machine Learning Specialty – Neal Davis & Karim Elkobrossy](https://www.udemy.com/course/aws-certified-machine-learning-specialty-mls/?couponCode=CP130525US)
+
+## 📜 Certification
+
+🟢 **AWS Certified Machine Learning – Specialty (MLS-C01)**
+
+> ![AWS Certified Machine Learning - Specialty certificate (2)_page-0001](https://github.com/user-attachments/assets/70fd15f5-e963-4b5f-aa7a-521ae2d9853b)
+> [View my Certification](https://www.credly.com/badges/63e4e26a-334c-4e3b-bbf9-7df94db3482e)
+
+---
+
+## 📧 Contact
+
+If you're prepping for MLS-C01 or want to collaborate on ML/AWS projects:
+
+**Obinna Ndubuisi**  
+🔗 [LinkedIn](https://www.linkedin.com/in/obinna-ndubuisi-576471293/)  
+
+
