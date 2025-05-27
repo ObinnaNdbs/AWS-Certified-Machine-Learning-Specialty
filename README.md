@@ -18,9 +18,9 @@ This repository contains all of my projects, hands-on labs, notebooks, and tools
 | Domain                              | Folder(s)                                  | Description |
 |-------------------------------------|---------------------------------------------|-------------|
 | **1. Data Engineering**            | [`Data Engineering/`](https://github.com/ObinnaNdbs/AWS-Certified-Machine-Learning-Specialty/tree/main/Data%20Engineering)   | Work with S3, Glue, Kinesis, EMR, Athena |
-| **2. Exploratory Data Analysis**   | [`notebooks/`](./notebooks)                 | Jupyter notebooks using Pandas, Spark, Athena |
-| **3. Modeling**                    | [`model-tuning/`](./model-tuning), [`sagemaker-projects/`](./sagemaker-projects) | Feature engineering, model tuning, built-in algorithms |
-| **4. ML Implementation & Ops**    | [`deployment/`](./deployment)               | Inference pipelines, model monitoring, MLOps, security |
+| **2. Exploratory Data Analysis**   | [`notebooks/`](https://github.com/ObinnaNdbs/AWS-Certified-Machine-Learning-Specialty/tree/main/Exploratory%20Data%20Analysis)                 | Jupyter notebooks using Pandas, Spark, Athena |
+| **3. Modeling**                    | [`model-tuning/`](https://github.com/ObinnaNdbs/AWS-Certified-Machine-Learning-Specialty/tree/main/Modeling), [`sagemaker-projects/`](./sagemaker-projects) | Feature engineering, model tuning, built-in algorithms |
+| **4. ML Implementation & Ops**    | [`deployment/`](https://github.com/ObinnaNdbs/AWS-Certified-Machine-Learning-Specialty/tree/main/ML%20Implementation%20and%20Operations)               | Inference pipelines, model monitoring, MLOps, security |
 | **Generative AI (Extra)**         | [`generative-ai/`](./generative-ai)         | SageMaker JumpStart, Bedrock demos, HuggingFace integration |
 
 ---
@@ -36,9 +36,8 @@ This repository contains all of my projects, hands-on labs, notebooks, and tools
 
 ---
 
-## 📸 Screenshots & Visuals
 
-### Architecture Diagrams
+## 📸 Architecture Diagrams
 ![aws ml pictures(1)](https://github.com/user-attachments/assets/741de150-b785-4f10-912c-35abc1f9c7a2)
 
 
