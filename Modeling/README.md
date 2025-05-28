@@ -1,4 +1,4 @@
-# 🧠 Modeling (Domain 3)
+# 🧠 Modeling
 
 This directory contains all learning content and hands-on labs related to **Domain 3: Modeling** of the AWS Certified Machine Learning – Specialty (MLS-C01) certification. It includes foundational theory, practical implementation of AWS-native tools, advanced ML workflows, and real-world deployment techniques using SageMaker and high-level ML services.
 ![image](https://github.com/user-attachments/assets/1b4f3d23-9ae2-4c49-8009-8319236575a3)
