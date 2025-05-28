@@ -9,7 +9,7 @@ _Comprehensive labs, projects, and notes for mastering Machine Learning on AWS_
 | Item | Info |
 |------|------|
 | **Certification Date** | April 2025 |
-| **Validation ID** | `a0dc9bde-5db7-409e-a223-f97c7f488f66` |
+| **Validation ID** | `a0dc9bde5db7409ea223f97c7f488f66` |
 | **Verify** | [AWS CertMetrics Link](https://cp.certmetrics.com/amazon/en/public/verify/credential) |
 | **Badge** | ![AWS MLS Badge](https://github.com/user-attachments/assets/c5e85832-98de-4962-90e0-ac03a9781154) |
 
