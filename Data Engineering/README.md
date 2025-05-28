@@ -1,4 +1,4 @@
-# 📦 Data Engineering – AWS Machine Learning Specialty
+# 📦 Data Engineering 
 
 This module covers the core data engineering concepts and services required for the **AWS Certified Machine Learning – Specialty (MLS-C01)** exam. All topics listed here were completed through a combination of hands-on labs and lecture walkthroughs using AWS services.
 
